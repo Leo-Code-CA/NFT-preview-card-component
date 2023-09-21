@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/nft-preview-card-component-challenge-solution-using-css-grid-iRjtg56k9s)
-- Live Site URL: [Add live site URL here](https://leo-code-ca.github.io/NFT-preview-card-component/)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/nft-preview-card-component-challenge-solution-using-css-grid-iRjtg56k9s)
+- Live Site URL: [Live site URL](https://leo-code-ca.github.io/NFT-preview-card-component/)
 
 ## My process
 
